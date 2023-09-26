@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Dialog Datepicker</string>
+    <string-array name="attendanceOption">
+        <item>Hadir Tepat Waktu</item>
+        <item>Sakit</item>
+        <item>Terlambat</item>
+        <item>Izin</item>
+    </string-array>
+</resources>
